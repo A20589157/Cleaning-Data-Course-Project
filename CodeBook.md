@@ -1,4 +1,4 @@
-#CodeBook
+##CodeBook
 
 This is a code book that describes the variables, the data, to clean up a data set.
 
@@ -22,7 +22,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 '
 features.txt': List of all features.
 
-#Variables:
+##Variables:
 mean_and_std - Created this varible to get the required string for the mean calculation
 
 MeanAndStd - Created a subset for the file tidy data subset
