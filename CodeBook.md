@@ -10,6 +10,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 ##File lists:
+
 'train/X_train.txt': Training set.
 
 'test/X_test.txt': Test set.
