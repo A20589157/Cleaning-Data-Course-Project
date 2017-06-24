@@ -1,4 +1,4 @@
-##CodeBook
+#CodeBook
 
 This is a code book that describes the variables, the data, to clean up a data set.
 
@@ -13,13 +13,20 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 'train/X_train.txt': Training set.
 
 'test/X_test.txt': Test set.
-'train/y_train.txt': Training labels.
-'test/y_test.txt': Test labels.
-'activity_labels.txt': Links the class labels with their activity name.
-'features.txt': List of all features.
 
-Variables:
+'train/y_train.txt': Training labels.
+
+'test/y_test.txt': Test labels.
+
+'activity_labels.txt': Links the class labels with their activity name.
+'
+features.txt': List of all features.
+
+#Variables:
 mean_and_std - Created this varible to get the required string for the mean calculation
+
 MeanAndStd - Created a subset for the file tidy data subset
+
 setWithActivityNames - To Merge Activitylds with Mean subset
+
 TidySet - Final tidy data set used to generate the file
